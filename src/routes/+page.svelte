@@ -1,3 +1,7 @@
+<script>
+  import Hero from "../components/Home/Hero.svelte"
+
+</script>
 
 <svelte:head>
 	<title>Home</title>
@@ -21,8 +25,6 @@
       background-size: cover;
     }
 </style>
-
-
 
 <img src="src/lib/images/Temple_above_footer.png" class="base-image w-full" alt="">
 <div id="footer" class="">
